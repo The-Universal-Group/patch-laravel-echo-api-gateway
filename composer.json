@@ -1,5 +1,5 @@
 {
-    "name": "georgeboot/laravel-echo-api-gateway",
+    "name": "the-universal-group/laravel-echo-api-gateway",
     "description": "Use Laravel Echo with API Gateway Websockets",
     "keywords": [
         "laravel",
